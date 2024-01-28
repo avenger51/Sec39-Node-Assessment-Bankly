@@ -1,0 +1,2 @@
+to seed: sudo -u postgres psql -d bankly -a -f data.sql
+to connect sudo -u postgres bankly
